@@ -1,0 +1,6 @@
+token=NTQyNDU3MzI0MDgyNTYxMDk0.DzuSUA.bBsW04Bw2XxBvXhDf4P2NDtTXyc
+owner=341312629475901440
+prefix=-2
+game=-2help
+stayinchannel=false
+songinstatus=true
